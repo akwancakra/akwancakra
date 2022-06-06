@@ -2,6 +2,7 @@
 <p></p>My name <a href="https://www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a></p>
 <p>Graduated from Vocational High School 1 Bekasi City - 2022</p>
 <a href="https://instagram.com/akwancakra"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Akwan Cakra | Instagram" width="30px"/></a>
+<a href="https://facebook.com/akwancakra666"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Akwan Cakra | Facebook" width="30px"/></a>
 <p></p>
 ### 🛠 Languages and Tools :
 <p>Languages</p>
@@ -23,8 +24,8 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figmra" alt="Figma" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="35" height="35"/>
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobeIllustrator.svg" title="Illustrator" alt="Illustrator" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobePhotoshop.svg" title="Photoshop" **alt="Photoshop" width="35" height="35"/>
 </div>
 <!--
 **akwancakra/akwancakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
