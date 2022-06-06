@@ -1,8 +1,7 @@
 ### Hi there 👋
 <p></p>My name <a href="https://www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a></p>
 <p>Graduated from Vocational High School 1 Bekasi City - 2022</p>
-<a href="https://instagram.com/akwancakra"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="30px"/></a>
-<br>
+<a href="https://instagram.com/akwancakra"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="30px"/></a>
 ### 🛠 Languages and Tools :
 <p>Languages</p>
 <div>
