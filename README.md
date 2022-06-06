@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name <a href="www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a>
-Graduated from Vocational High School 1 Bekasi City - 2022
+<p></p>My name <a href="www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a></p>
+<p>Graduated from Vocational High School 1 Bekasi City - 2022</p>
 
 ### 🛠 Languages and Tools :
 Languages
