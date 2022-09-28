@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet"><br>
 <p></p>My name <a href="https://www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a></p>
 <p>Currently i'm studying Software Engineering at Universitas Pendidikan Indonesia</p>
 <a href="https://instagram.com/akwancakra"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Akwan Cakra | Instagram" width="35px"/></a>
@@ -27,5 +28,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figmra" alt="Figma" width="35" height="35"/>&nbsp;
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobeIllustrator.svg" title="Illustrator" alt="Illustrator" width="35" height="35"/>&nbsp;
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobePhotoshop.svg" title="Photoshop" **alt="Photoshop" width="35" height="35"/>
-</div><br>
-<img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet">
+</div>
