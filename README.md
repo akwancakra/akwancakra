@@ -28,6 +28,4 @@
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobeIllustrator.svg" title="Illustrator" alt="Illustrator" width="35" height="35"/>&nbsp;
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobePhotoshop.svg" title="Photoshop" **alt="Photoshop" width="35" height="35"/>
 </div><br>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet">
-</a><br>
+<img src="https://akwancakra.m.pipedream.net"><br>
