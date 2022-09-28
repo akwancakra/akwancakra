@@ -3,7 +3,7 @@
 <p>Currently i'm studying Software Engineering at Universitas Pendidikan Indonesia</p>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet">
-</a>
+</a><br>
 <a href="https://instagram.com/akwancakra"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Akwan Cakra | Instagram" width="35px"/></a>
 <a href="https://facebook.com/akwancakra666"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Akwan Cakra | Facebook" width="35px"/></a>
 <a href="#"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="Akwan Cakra | Discord" width="35px"/></a>
