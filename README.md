@@ -1,9 +1,6 @@
 ## Hi there 👋
 <p></p>My name <a href="https://www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a></p>
 <p>Currently i'm studying Software Engineering at Universitas Pendidikan Indonesia</p>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet">
-</a><br>
 <a href="https://instagram.com/akwancakra"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Akwan Cakra | Instagram" width="35px"/></a>
 <a href="https://facebook.com/akwancakra666"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Akwan Cakra | Facebook" width="35px"/></a>
 <a href="#"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="Akwan Cakra | Discord" width="35px"/></a>
@@ -31,17 +28,6 @@
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobeIllustrator.svg" title="Illustrator" alt="Illustrator" width="35" height="35"/>&nbsp;
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobePhotoshop.svg" title="Photoshop" **alt="Photoshop" width="35" height="35"/>
 </div>
-<!--
-**akwancakra/akwancakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet">
+</a><br>
