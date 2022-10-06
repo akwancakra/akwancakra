@@ -4,7 +4,7 @@
 <p>Currently i'm studying Software Engineering at Universitas Pendidikan Indonesia</p>
 <a href="https://instagram.com/akwancakra"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Akwan Cakra | Instagram" width="35px"/></a>
 <a href="https://facebook.com/akwancakra666"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Akwan Cakra | Facebook" width="35px"/></a>
-<a href="https://discord.gg/UUE2qPJcbT"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="Akwan Cakra | Discord" width="35px"/></a>
+<a href="https://discord.gg/UUE2qPJcbT" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="Akwan Cakra | Discord" width="35px"/></a>
 <p></p>
 🛠 Languages and Tools :
 <p>Languages</p>
