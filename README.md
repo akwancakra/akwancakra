@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet"><br>
 <p></p>My name <a href="https://www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a></p>
 <p>Currently i'm studying Software Engineering at Universitas Pendidikan Indonesia</p>
