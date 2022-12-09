@@ -1,14 +1,7 @@
 # Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet"><br>
 <p></p>My name <a target="_blank" href="https://www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a></p>
 <p>Currently i'm studying Software Engineering at Indonesia University of Education</p>
-<p>
-<a target="_blank" href="https://instagram.com/akwancakra"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Akwan Cakra | Instagram" width="35px"/></a>
-<a href="https://facebook.com/akwancakra666"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Akwan Cakra | Facebook" width="35px"/></a>
-<a href="https://discord.gg/UUE2qPJcbT" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="Akwan Cakra | Discord" width="35px"/></a>
-</p>
-<br><br>
-# 🛠 Languages and Tools
+## 🛠 Languages and Tools
 <p>Languages</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
