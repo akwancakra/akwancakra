@@ -1,6 +1,6 @@
 # Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet"><br>
-<p></p>My name <a target="_blank" href="https://www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a></p>
+<p>My name <a target="_blank" href="https://www.instagram.com/akwancakra">Akwan Cakra Tajimalela</a></p>
 <p>Currently i'm studying Software Engineering at Indonesia University of Education</p>
 ## 🛠 Languages and Tools
 <p>
