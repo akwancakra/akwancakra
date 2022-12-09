@@ -9,7 +9,6 @@ Currently i'm studying Software Engineering at Indonesia University of Education
 <br>
 ## 🛠 Languages and Tools
 - Languages
-<br><br>
 <div>
   - Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/>
