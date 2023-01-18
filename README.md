@@ -7,8 +7,8 @@ Currently i'm studying Software Engineering at Indonesia University of Education
 <a href="https://facebook.com/akwancakra666"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Akwan Cakra | Facebook" width="35px"/></a>
 <a href="https://discord.gg/UUE2qPJcbT" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="Akwan Cakra | Discord" width="35px"/></a>
 <br>
-### 🛠 Languages and Tools
-- Languages
+### 🛠 Skills and Tools
+- Skills
 <br><br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/>&nbsp;
