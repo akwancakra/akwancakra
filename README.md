@@ -39,10 +39,8 @@ I am currently pursuing a degree in Software Engineering at Universitas Pendidik
 
 <div align="center">
   <a href="https://github.com/akwancakra">
-    <img src="https://github-readme-stats.vercel.app/api?username=akwancakra&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=ffcc00&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="akwancakra's GitHub Stats" />
-  </a>
-  <a href="https://github.com/akwancakra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akwancakra&theme=dark&show_icons=true&hide_border=true&layout=compact&title_color=ffcc00&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="akwancakra's Most Used Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akwancakra&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="akwancakra's Github Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akwancakra&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages"/>
   </a>
 </div>
 
