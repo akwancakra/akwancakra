@@ -1,7 +1,7 @@
 # Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet"><br><br>
-My name <a target="_blank" href="https://www.instagram.com/wan.ckre">Akwan Cakra Tajimalela</a><br>
-Currently i'm studying Software Engineering at Indonesia University of Education
+I'm <a target="_blank" href="https://www.instagram.com/wan.ckre">Akwan Cakra</a><br>
+I am currently pursuing a degree in Software Engineering at Universitas Pendidikan Indonesia.
 <br><br>
 <a target="_blank" href="https://instagram.com/akwancakra"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Akwan Cakra | Instagram" width="35px"/></a>
 <a href="https://facebook.com/akwancakra666"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Akwan Cakra | Facebook" width="35px"/></a>
