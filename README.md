@@ -33,3 +33,16 @@ I am currently pursuing a degree in Software Engineering at Universitas Pendidik
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobeIllustrator.svg" title="Illustrator" alt="Illustrator" width="35" height="35"/>&nbsp;
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobePhotoshop.svg" title="Photoshop" **alt="Photoshop" width="35" height="35"/>
 </div>
+
+---
+## 📊 Github Stats
+
+<div align="center">
+  <a href="https://github.com/akwancakra">
+    <img src="https://github-readme-stats.vercel.app/api?username=akwancakra&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=ffcc00&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="akwancakra's GitHub Stats" />
+  </a>
+  <a href="https://github.com/akwancakra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akwancakra&theme=dark&show_icons=true&hide_border=true&layout=compact&title_color=ffcc00&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="akwancakra's Most Used Languages" />
+  </a>
+</div>
+
