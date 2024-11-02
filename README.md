@@ -38,9 +38,7 @@ I am currently pursuing a degree in Software Engineering at Universitas Pendidik
 ## 📊 Github Stats
 
 <div align="center">
-  <a href="https://github.com/akwancakra">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akwancakra&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="akwancakra's Github Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akwancakra&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages"/>
-  </a>
 </div>
 
