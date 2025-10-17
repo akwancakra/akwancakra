@@ -4,7 +4,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=akwancakra&color=blueviolet" alt="Profile views">
     <a href="https://www.instagram.com/wan.ckre"><img src="https://img.shields.io/badge/-@wan.ckre-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/akwan-cakra-tajimalela/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/akwan-cakra-tajimalela/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
 </div>
 
